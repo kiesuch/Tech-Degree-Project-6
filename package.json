@@ -1,0 +1,22 @@
+{
+  "name": "project_6",
+  "version": "1.0.0",
+  "description": "sixth_tech_degree_project",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"test command\")"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiesuch/Tech-Degree-Project-6"
+  },
+  "keywords": [
+    "project_6"
+  ],
+  "author": "Frank Suchwala",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+	"projects": [
+	
+		{
+			"id": 0,
+			"project_name": "Random Quote Generator",
+			"description": "Quotes will be randomly generated when a button is clicked" ,
+			"technologies": ["JavaScript", "HTML", "CSS"],
+			"live_link": "https://kiesuch.github.io/Tech-Degree-Project-1/",
+			"github_link": "https://github.com/kiesuch/Tech-Degree-Project-1",
+			"image_urls": ["/static/images/proj_1.1.png", "/static/images/proj_1.2.png"]
+		},
+		
+		{
+			"id": 1,
+			"project_name": "List Pagination and Filtering",
+			"description": "A list of users is sorted and displayed on multiple pages." ,
+			"technologies": ["JavaScript", "HTML", "CSS"],
+			"live_link": "https://kiesuch.github.io/Tech-Degree-Project-2/",
+			"github_link": "https://github.com/kiesuch/Tech-Degree-Project-2",
+			"image_urls": ["/static/images/proj_2.1.png", "/static/images/proj_2.2.png"]
+		},
+		
+		{
+			"id": 2,
+			"project_name": "Interactive Form",
+			"description": "A form is given interactivity and visible required input field errors." ,
+			"technologies": ["JavaScript", "HTML", "CSS"],
+			"live_link": "https://kiesuch.github.io/Tech-Degree-Project-3/",
+			"github_link": "https://github.com/kiesuch/Tech-Degree-Project-3",
+			"image_urls": ["/static/images/proj_3.1.png", "/static/images/proj_3.2.png"]
+		},
+		
+		{
+			"id": 3,
+			"project_name": "OOP Game Show App",
+			"description": "A word guessing game is created in the browser using object oriented programming" ,
+			"technologies": ["JavaScript", "HTML", "CSS"],
+			"live_link": "https://kiesuch.github.io/Tech-Degree-Project-4/",
+			"github_link": "https://github.com/kiesuch/Tech-Degree-Project-4",
+			"image_urls": ["/static/images/proj_4.1.png", "/static/images/proj_4.2.png"]
+		},
+		
+		{
+			"id": 4,
+			"project_name": "Public API Requests",
+			"description": "An API is used to create and then display a directory of employees." ,
+			"technologies": ["JavaScript", "HTML", "CSS"],
+			"live_link": "https://kiesuch.github.io/Tech-Degree-Project-5/",
+			"github_link": "https://github.com/kiesuch/Tech-Degree-Project-5",
+			"image_urls": ["/static/images/proj_5.1.png", "/static/images/proj_5.2.png"]
+		}
+	]
+}
